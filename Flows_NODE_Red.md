@@ -92,3 +92,8 @@ Desarrollar esquemas básicos de sistemas cliente/servidor TCP y UDP utilizando 
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT
+
+## Información Adicional
+
+[Editor Components](https://youtu.be/veiNb6Y0ERg?si=zLDJaqShsJOOwbci)
+[Lista de Reproducción Node-Red Essentials](https://youtube.com/playlist?list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6&si=xOXSCtVVbARfrMG5)
