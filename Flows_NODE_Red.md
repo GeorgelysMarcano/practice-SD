@@ -89,6 +89,11 @@ Panel de información, en la parte derecha de la pantalla, donde destaca el bot�
 Familiarizarse con la herramienta Node-RED para gestión de flujos, que será utilizada durante el resto de prácticas como herramienta rápida de despliegue de aplicaciones IoT.
 Desarrollar esquemas básicos de sistemas cliente/servidor TCP y UDP utilizando Node-RED
 
+1. [Flow 1](https://www.notion.so/First-Flow-137995b1451680d98b4fd7c8ad1d6002?pvs=4)
+2. [Flow 2](https://www.notion.so/Second-Flow-137995b14516809a972fc14def3c7c4f?pvs=4)
+3. [Flow 3](https://www.notion.so/Third-Flow-137995b14516803aa74ed35a9c653fd8?pvs=4)
+4. [Flow 4](https://www.notion.so/Fourth-Flow-137995b145168015ab7ae829382fe7d1?pvs=4)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT
