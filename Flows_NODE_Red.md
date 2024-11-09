@@ -17,6 +17,17 @@ Node-RED es una herramienta de programación visual que se implementa en disposi
 
 ## Descripción del Proyecto
 
+Previamente realizaremos una pequeña investigación:
+
+1. ¿Qué es MQTT?
+2. ¿Actualmente, en qué casos se usan sistemas distribuidos?
+3. ¿Qué es NODE-RED y para qué sirve?
+4. Diferencias entre Software Open Source y Software de Licencia
+5. Investigue y analice el patrón productor/consumidor o publicador/subscriptor, explique brevemente cómo se aplica este patrón en los sistemas distribuidos.
+6. Enumere y explique brevemente los componentes del protocolo MQTT en el patrón publicador/subscriptor
+7. ¿En qué tecnologías se usa actualmente el protocolo MQTT?
+8. Realice un cuadro comparativo de las características, ventajas y desventajas de Apache Zookeeper, MQTT y Apache Kafka.
+
 Realizaremos cuatro (4) ejercicios:
 
 1. Transmitiendo mensajes a través de un nodo Injection
@@ -93,6 +104,7 @@ Desarrollar esquemas básicos de sistemas cliente/servidor TCP y UDP utilizando 
 2. [Flow 2](https://www.notion.so/Second-Flow-137995b14516809a972fc14def3c7c4f?pvs=4)
 3. [Flow 3](https://www.notion.so/Third-Flow-137995b14516803aa74ed35a9c653fd8?pvs=4)
 4. [Flow 4](https://www.notion.so/Fourth-Flow-137995b145168015ab7ae829382fe7d1?pvs=4)
+5. [Flow 5](https://youtu.be/wS0E1j1q7sM?si=EaWZIixL5dx5nszF)
 
 ## Licencia
 
