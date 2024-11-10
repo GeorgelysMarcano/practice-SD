@@ -2,6 +2,8 @@
 
 ## Introducción
 
+![Node-RED Logo](https://nodered.org/about/resources/media/node-red-icon-2.png)
+
 Bienvenido a la página de información. Aquí encontrarás detalles importantes sobre nuestro proyecto.
 
 Node-RED es una herramienta de código abierto desarrollada inicialmente por IBM y que, estando orientada a flujos de datos, proporciona mecanismos para asociar dispositivos hardware, APIs y servicios online dentro de un ecosistema IoT. Node-RED es una herramienta gráfica, utilizable desde cualquier navegador web, que permite la cración y edición de flujos de datos que tomen datos de entrada (mediante nodos de entrada), los procesen (mediante nodos de procesamiento) y proporcionen salidas (mediante nodos de salida). Todos los elementos, incluyendo flujos complejos definidos por el usuario, pueden almacenarse en formato JSON para ser importados a continuación en otras instalaciones. Node-RED permite la interconexión de elementos software y hardware mediante virtualmente cualquier protocolo conocido, facilitando el despliegue de infraestructuras IoT, y esta condición permite definir flujos de servicios a través de protocolos como el MQTT.
@@ -64,24 +66,7 @@ Para ejecutar Node-RED, una vez instalado, es posible utilizar la orden node-red
 
 $ node-red
 
-Welcome to Node-RED
-===================
-
-30 Jun 23:43:39 - [info] Node-RED version: v1.1.0
-30 Jun 23:43:39 - [info] Node.js  version: v10.21.0
-30 Jun 23:43:39 - [info] Darwin 18.7.0 x64 LE
-30 Jun 23:43:39 - [info] Loading palette nodes
-30 Jun 23:43:44 - [warn] rpi-gpio : Raspberry Pi specific node set inactive
-30 Jun 23:43:44 - [info] Settings file  : /Users/nol/.node-red/settings.js
-30 Jun 23:43:44 - [info] HTTP Static    : /Users/nol/node-red/web
-30 Jun 23:43:44 - [info] Context store  : 'default' [module=localfilesystem]
-30 Jun 23:43:44 - [info] User directory : /Users/nol/.node-red
-30 Jun 23:43:44 - [warn] Projects disabled : set editorTheme.projects.enabled=true to enable
-30 Jun 23:43:44 - [info] Creating new flows file : flows_noltop.json
-30 Jun 23:43:44 - [info] Starting flows
-30 Jun 23:43:44 - [info] Started flows
-30 Jun 23:43:44 - [info] Server now running at http://127.0.0.1:1880/red/
-Con el software arrancado, es posible acceder al editor Node-RED a través de la dirección http://localhost:1880 en cualquier navegador.
+![pantalla nodered](https://www.dropbox.com/scl/fi/it1qou8ash5fcsg5la35x/pantallanodered.png?rlkey=ykz5iulvodhq9rryo2cn107hh&st=9fpmj1qg&dl=0)
 
 Tras arrancarlo, observarás cuatro áreas en el editor:
 
@@ -115,5 +100,9 @@ Desarrollar esquemas básicos de sistemas cliente/servidor TCP y UDP utilizando 
 [Free Udemy Course about Node-RED](https://www.udemy.com/course/proyecto-node-red-monitorizacion-de-parametros-del-sistema/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_167955697191_._ad_706510832613_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_1005493_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwjjReoqhcOGedAfy6QDDNKh0FMHsByYmsFU24DOsyluC8RW2asunMaAlN6EALw_wcB)
 
 ## Licencia
+
+## Licencia
+
+
 
 © [2024] [Georgelys Marcano]. Todos los derechos reservados.
