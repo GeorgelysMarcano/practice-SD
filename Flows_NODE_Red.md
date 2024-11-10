@@ -66,7 +66,7 @@ Para ejecutar Node-RED, una vez instalado, es posible utilizar la orden node-red
 
 $ node-red
 
-![pantalla nodered](https://www.dropbox.com/scl/fi/it1qou8ash5fcsg5la35x/pantallanodered.png?rlkey=ykz5iulvodhq9rryo2cn107hh&st=44ormsow&dl=0)
+![pantalla nodered](https://www.notion.so/Instrucciones-de-instalaci-n-de-NODE-Red-en-Windows-137995b145168040b3b7fb2a97f59946?pvs=4#13a995b1451680bb827fe4f692bb0c70)
 
 Tras arrancarlo, observarás cuatro áreas en el editor:
 
