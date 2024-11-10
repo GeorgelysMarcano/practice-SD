@@ -106,10 +106,6 @@ Desarrollar esquemas básicos de sistemas cliente/servidor TCP y UDP utilizando 
 4. [Flow 4](https://www.notion.so/Fourth-Flow-137995b145168015ab7ae829382fe7d1?pvs=4)
 5. [Flow 5](https://youtu.be/wS0E1j1q7sM?si=EaWZIixL5dx5nszF)
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT
-
 ## Información Adicional
 
 [Editor Components](https://youtu.be/veiNb6Y0ERg?si=zLDJaqShsJOOwbci)
@@ -117,3 +113,7 @@ Este proyecto está licenciado bajo la Licencia MIT
 [Lista de Reproducción Node-Red Essentials](https://youtube.com/playlist?list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6&si=xOXSCtVVbARfrMG5)
 
 [Free Udemy Course about Node-RED](https://www.udemy.com/course/proyecto-node-red-monitorizacion-de-parametros-del-sistema/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_167955697191_._ad_706510832613_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_1005493_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwjjReoqhcOGedAfy6QDDNKh0FMHsByYmsFU24DOsyluC8RW2asunMaAlN6EALw_wcB)
+
+## Licencia
+
+© [2024] [Georgelys Marcano]. Todos los derechos reservados.
