@@ -66,7 +66,7 @@ Para ejecutar Node-RED, una vez instalado, es posible utilizar la orden node-red
 
 $ node-red
 
-![pantalla nodered](https://www.dropbox.com/scl/fi/it1qou8ash5fcsg5la35x/pantallanodered.png?rlkey=ykz5iulvodhq9rryo2cn107hh&st=9fpmj1qg&dl=0)
+![pantalla nodered](https://www.dropbox.com/scl/fi/it1qou8ash5fcsg5la35x/pantallanodered.png?rlkey=ykz5iulvodhq9rryo2cn107hh&st=44ormsow&dl=0)
 
 Tras arrancarlo, observarás cuatro áreas en el editor:
 
